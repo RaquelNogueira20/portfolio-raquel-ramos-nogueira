@@ -1,5 +1,5 @@
-# [Raquel Ramos Nogueira]
-> Estudante de [Análise e Desenvolvimento de Sistemas]
+# Raquel Ramos Nogueira
+> Estudante de Análise e Desenvolvimento de Sistemas
  
 ---
  
