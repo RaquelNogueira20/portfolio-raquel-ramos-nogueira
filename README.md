@@ -11,10 +11,10 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o 2º período de Análise e desenvolvimento de Sistemas na UNICID(Universidade da Cidade de São Paulo). Tenho grande interesse em resolver problemas por meio da tecnologia, com foco no desenvolvimento de software e na criação de soluções digitais práticas e funcionais.
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Habilidades Técnicas:** Python, Java, SQL, modelagem de banco de dados (MER e DER), lógica de programação, Git/GitHub e noções de desenvolvimento web.
+* **Habilidades Socioemocionais:** Trabalho em equipe com colaboração ativa, comunicação clara e assertiva, pensamento crítico para resolução de problemas, organização, proatividade, adaptabilidade a novos desafios e aprendizado contínuo.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
  
 ---
