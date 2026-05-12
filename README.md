@@ -49,7 +49,7 @@ Atualmente cursando o 2º período de Análise e desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-a-corrida-de-prompt/) |
+| **Projeto a Corrida do Prompt** | Desafio prático de otimização de LLMs com foco em precisão e refinamento estratégico em até 5 iterações. Laboratório de comunicação com modelos de linguagem (Qwen) para o desenvolvimento de instruções técnicas e análise crítica de respostas. | [Ver Projeto](./projeto-a-corrida-de-prompt/) |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
