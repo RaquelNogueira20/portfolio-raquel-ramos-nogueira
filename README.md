@@ -49,11 +49,11 @@ Atualmente cursando o 2º período de Análise e desenvolvimento de Sistemas na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto a Corrida do Prompt** | Desafio prático de otimização de LLMs com foco em precisão e refinamento estratégico em até 5 iterações. Laboratório de comunicação com modelos de linguagem (Qwen) para o desenvolvimento de instruções técnicas e análise crítica de respostas. | [Ver Projeto](./projeto-a-corrida-de-prompt/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Projeto a Corrida do Prompt** | Desafio prático de otimização de LLMs com foco em precisão e refinamento estratégico em até 5 iterações. Laboratório de comunicação com modelos de linguagem (Qwen) para o desenvolvimento de instruções técnicas e análise crítica de respostas. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-a-corrida-do-prompt) |
+| **projeto desenvolvimento de app de videoconferência com manus ai e jitsi** | Projeo que integra videoconferencia e desenvolvimento vibe coding. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-desenvolvimento-de-app-de-videoconfer%C3%AAncia-com-manus-ai-e-jitsi) |
+| **Projeto Engenharia de prompt** | Avaliação de capacidade dos lm's | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-engenharia-de-prompt) |
+| **Projeto Engenharia Reversa** | ReconstruÇÃO um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-engenharia-reversa) |
+| **** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
  
