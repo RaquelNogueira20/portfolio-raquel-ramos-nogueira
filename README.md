@@ -30,21 +30,11 @@ Atualmente cursando o 2º período de Análise e desenvolvimento de Sistemas na 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
  
-#### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
- 
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
  
 ---
  
 ### 📂 Portfólio de Projetos
- 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
@@ -53,9 +43,9 @@ Atualmente cursando o 2º período de Análise e desenvolvimento de Sistemas na 
 | **projeto desenvolvimento de app de videoconferência com manus ai e jitsi** | Projeo que integra videoconferencia e desenvolvimento vibe coding. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-desenvolvimento-de-app-de-videoconfer%C3%AAncia-com-manus-ai-e-jitsi) |
 | **Projeto Engenharia de prompt** | Avaliação de capacidade dos lm's | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-engenharia-de-prompt) |
 | **Projeto Engenharia Reversa** | ReconstruÇÃO um aplicativo funcional a partir da observação de sua interface externa, sem visualizar o código-fonte original ou fornecer o link para a IA. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-engenharia-reversa) |
-| **** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Projeto Laboratorio de Classificacao Visual** |  Identificação o surgimento de visões técnicas ao treinar um modelo de classificação de imagens utilizando categorias específicas. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-laboratorio-de-classificacao-visual) |
+| **Projeto MVP** | Plataforma profissional de Inteligência de Fontes Abertas (OSINT) desenvolvida para centralizar a investigação de identidades digitais. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-mvp) |
+| **Projeto Musica com IA** |  produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI. | [Ver Projeto](https://github.com/RaquelNogueira20/portfolio-raquel-ramos-nogueira/tree/main/projeto-musica-ia) |
  
 ---
  
